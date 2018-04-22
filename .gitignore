@@ -1,0 +1,7 @@
+*.*
+!main.py
+!.gitignore
+!LICENSE.txt
+!*.java
+!*.c
+!*.pyw
